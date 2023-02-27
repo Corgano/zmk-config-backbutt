@@ -19,7 +19,7 @@
 
         input-gpios =
             <&gpio0 30 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>,
-            <&gpio0 31 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>
+            <&gpio0 31 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>;
     };
 
 
