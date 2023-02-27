@@ -2,3 +2,5 @@ if SHIELD_BACKBUTT
 
 config ZMK_KEYBOARD_NAME
     default "BackButtKybrd"
+
+endif
