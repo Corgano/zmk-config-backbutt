@@ -4,7 +4,7 @@ config ZMK_KEYBOARD_NAME
     default "BackButtKybrd"
     # Turn on logging, and set ZMK logging to debug output
     CONFIG_ZMK_USB_LOGGING=y
-    CONFIG_CLOCK_CONTROL_NRF=y
-    CONFIG_CLOCK_CONTROL_NRF_K32SRC_RC=y
+#    CONFIG_CLOCK_CONTROL_NRF=y
+#    CONFIG_CLOCK_CONTROL_NRF_K32SRC_RC=y
     
 endif
